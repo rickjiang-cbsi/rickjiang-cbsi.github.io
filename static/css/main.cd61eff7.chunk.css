@@ -1,0 +1,2 @@
+.scrollbar-container{position:relative;height:100%}.ps{overflow:hidden;touch-action:auto}.ps__rail-y{display:none;opacity:0;transition:background-color .2s linear,opacity .2s linear;width:15px;right:0;position:absolute}.ps--active-y>.ps__rail-y{display:block;background-color:transparent}.ps--focus>.ps__rail-y,.ps--scrolling-y>.ps__rail-y,.ps:hover>.ps__rail-y{opacity:.6}.ps__thumb-y{background-color:#aaa;border-radius:6px;transition:background-color .2s linear,width .2s ease-in-out;width:6px;right:2px;position:absolute}
+/*# sourceMappingURL=main.cd61eff7.chunk.css.map */
